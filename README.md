@@ -31,7 +31,7 @@ Um sistema completo para microempreendedores (MEI) com:
 ---
 
 ## 📫 Vamos conversar?
-- **LinkedIn:** [linkedin.com/in/seu-perfil](linkedin.com/in/alansousa031085) - **E-mail:** alan031085@gmail.com ---
+- **LinkedIn:** linkedin.com/in/alansousa031085 - **E-mail:** alan031085@gmail.com ---
 
 ### 🧠 Curiosidade Técnica
 Além do código, tenho experiência com **reparos eletrônicos avançados** (soldagem SMD e diagnóstico de hardware). Essa habilidade me deu uma visão analítica aguçada para resolver problemas complexos (troubleshooting) tanto em hardware quanto em software.
